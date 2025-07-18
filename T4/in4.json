@@ -1,0 +1,26 @@
+{
+    "Dummy1": {
+        "email": "dummy1@gmail.com",
+        "password": "dummy1"
+    },
+       "Nguyễn Ngọc Ân": {
+        "password": "12051992",
+        "email": "ngocan251s@gmail.com",
+        "role": "staff"
+    },
+    "Nguyễn Minh Hoàng": {
+        "password": "mh1509202",
+        "email": "minhhoang22@gmail.com",
+        "role": "HR"
+    },
+    "Lê Bảo Ngọc": {
+        "password": "ngocxinh",
+        "email": "ngocxinh2k@gmail.com",
+        "role": "HR"
+    },
+    "Lê Hồng Ân":{
+        "password": "andepzai95",
+        "email": "andepzai95@gmail.com",
+        "role": "intern"
+    }
+}

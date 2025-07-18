@@ -1,0 +1,57 @@
+[
+    {
+        "Employee's ID": "#HR001",
+        "Name": "Lê Bảo Ngọc",
+        "Date of birth": "17/07/2000",
+        "Gender": "Nữ",
+        "Email address": "ngocxinh2k@gmail.com",
+        "Phone numbers": "0839574216",
+        "Position": "Nhân viên nhân sự",
+        "Basic salary": "7,000,000 VNĐ",
+        "Bank account numbers": "06392847501638"
+    },
+    {
+        "Employee's ID": "#I001",
+        "Name": "Lê Hồng Ân",
+        "Date of birth": "02/02/1995",
+        "Gender": "Nam",
+        "Email address": "andepzai95@gmail.com",
+        "Phone numbers": "0589634634",
+        "Position": "Thực tập sinh nhân sự",
+        "Basic salary": "3,000,000 VND",
+        "Bank account numbers": "06942378150219"
+    },
+    {
+        "Employee's ID": "#HR002",
+        "Name": "Nguyễn Ngọc Gia Hân",
+        "Date of birth": "15/06/1996",
+        "Gender": "Nữ",
+        "Email address": "hannie240396@gmail.com",
+        "Phone numbers": "0947564764",
+        "Position": "Nhân viên nhân sự",
+        "Basic salary": "7,000,000 VNĐ",
+        "Bank account numbers": "4575622115869"
+    },
+    {
+        "Employee's ID": "#MKT001",
+        "Name": "Lê Thảo Nguyên",
+        "Date of birth": "27/05/1995",
+        "Gender": "Nữ",
+        "Email address": "thaonguyen95@gmail.com",
+        "Phone numbers": "0987632514",
+        "Position": "Nhân viên marketing",
+        "Basic salary": "8,000,000 VNĐ",
+        "Bank account numbers": "05392741650821"
+    },
+    {
+        "Employee's ID": "#A001",
+        "Name": "Trần Đình Quang",
+        "Date of birth": "22/12/1985",
+        "Gender": "Nam",
+        "Email address": "dinhquang1985@gmail.com",
+        "Phone numbers": "0589634634",
+        "Position": "Kế toán trưởng",
+        "Basic salary": "10,000,000 VNĐ",
+        "Bank account numbers": "5555555"
+    }
+]
